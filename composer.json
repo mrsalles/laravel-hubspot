@@ -1,5 +1,5 @@
 {
-    "name": "nirbhay94/laravel-hubspot",
+    "name": "mrsalles/laravel-hubspot",
     "description": "This will create contact in hubspot and list contacts",
     "keywords": [ "hubspot", "api","laravel" ],
     "type": "library",
@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Nirbhay\\Hubspot\\": "src/"
+            "Mrsalles\\Hubspot\\": "src/"
         }
     }
 }
